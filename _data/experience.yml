@@ -5,9 +5,7 @@
   summary: |
         An estimated 10 month long internship where I was tasked with generating
         weekly reporting for key metrics for tracking Shopee's cash loan product performance
-        in Indonesia. \n
-          - Consolidated data from data warehouses and data marts with SQL to create data insights \n
-          - Automated weekly analytics reports for Shopee's cash loan product in Indonesia
+        in Indonesia.
 
 - company: Singapore Airlines
   position: Data Science Intern
@@ -16,9 +14,3 @@
         A 2 month long internship where I was tasked with reading material
         relating to pre processing passport images before passing them through
         a text classification detection model to generate auto fill form data.
-          - Integrated the Character-Region Awareness For Text (CRAFT) model 
-            with Pytesseract for creating a text detection & OCR model to detect
-            text from passport images
-          - Deployed the integrated model as an API with Flask to form a proof
-            of concept product for passenger check in via mobile app to promote
-            social distancing at airports
