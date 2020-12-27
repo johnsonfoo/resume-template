@@ -5,14 +5,14 @@
   summary: |
         An estimated 10 month long internship where I was tasked with generating
         weekly reporting for key metrics for tracking Shopee's cash loan product performance
-        in Indonesia.
-          - Consolidated data from data warehouses and data marts with SQL to create data insights
+        in Indonesia. \n
+          - Consolidated data from data warehouses and data marts with SQL to create data insights \n
           - Automated weekly analytics reports for Shopee's cash loan product in Indonesia
 
 - company: Singapore Airlines
   position: Data Science Intern
   duration:  Jun 2020 &mdash; Jul 2020
-  details: |
+  summary: |
         A 2 month long internship where I was tasked with reading material
         relating to pre processing passport images before passing them through
         a text classification detection model to generate auto fill form data.
